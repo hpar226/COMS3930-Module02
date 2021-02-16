@@ -1,7 +1,4 @@
-Henry Hyun Park
-Hp2380
-COMS3930 
-Module 02
+
 
 
 Enclosed is a program to run a JamBox for fun making noises with a drum machine or a theremin. An analog joystick controls the pitch of a note produced through Sonic Pi and the 2 buttons make drum machine noises.
